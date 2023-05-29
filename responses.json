@@ -1,0 +1,94 @@
+[
+  {
+    "keywords": [
+      "xin chào",
+      "chào",
+      "hello",
+      "hi"
+    ],
+    "response": "Xin chào! Tôi là chatbot về sức khỏe. Bạn cần giúp gì?"
+  },
+  {
+    "keywords": [
+      "thể dục",
+      "tập thể dục",
+      "vận động",
+      "luyện tập"
+    ],
+    "response": "Thể dục đều đặn là một phần quan trọng của một lối sống lành mạnh. Bạn có thể thử tập thể dục hàng ngày trong ít nhất 30 phút."
+  },
+  {
+    "keywords": [
+      "cảm ơn",
+      "thanks",
+      "thank you"
+    ],
+    "response": "Rất vui được giúp bạn! Hãy để tôi biết nếu bạn cần thêm thông tin."
+  },
+  {
+    "keywords": [
+      "không hiểu",
+      "chưa rõ",
+      "hỏi lại"
+    ],
+    "response": "Xin lỗi, tôi không hiểu. Bạn có thể giải thích rõ hơn được không?"
+  },
+  {
+    "keywords": [
+      "đau đầu",
+      "nhức đầu",
+      "đau nửa đầu",
+      "migraine"
+    ],
+    "response": "Đau đầu có thể có nhiều nguyên nhân khác nhau, bao gồm căng thẳng, thiếu ngủ, hoặc các vấn đề sức khỏe khác. Bạn nên nghỉ ngơi đủ, tránh căng thẳng và tham khảo ý kiến của bác sĩ nếu triệu chứng kéo dài."
+  },
+  {
+    "keywords": [
+      "viêm họng",
+      "đau họng",
+      "ho",
+      "sổ mũi"
+    ],
+    "response": "Có thể các triệu chứng này là dấu hiệu của một cảm lạnh thông thường. Nên nghỉ ngơi, uống đủ nước và thực hiện các biện pháp vệ sinh cá nhân tốt để giảm nguy cơ lây nhiễm."
+  },
+  {
+    "keywords": [
+      "tiểu đường",
+      "đái tháo đường",
+      "đường huyết"
+    ],
+    "response": "Tiểu đường là một bệnh mà cơ thể không sản xuất hoặc sử dụng insulin đúng cách. Điều này có thể dẫn đến mức đường huyết không cân đối. Việc duy trì một lối sống lành mạnh, ăn uống cân bằng và thường xuyên kiểm tra đường huyết là quan trọng khi sống với tiểu đường."
+  },
+  {
+    "keywords": [
+      "đau lưng",
+      "nhức lưng",
+      "đau cột sống"
+    ],
+    "response": "Đau lưng có thể do nhiều nguyên nhân khác nhau, bao gồm căng thẳng cơ, tổn thương, hoặc vấn đề cột sống. Nên nghỉ ngơi, thực hiện các bài tập giãn cơ và tham khảo ý kiến của bác sĩ nếu triệu chứng không giảm đi sau một thời gian."
+  },
+  {
+    "keywords": [
+      "trầm cảm",
+      "uất ức",
+      "stress"
+    ],
+    "response": "Trầm cảm là một vấn đề sức khỏe tâm thần. Nếu bạn cảm thấy trầm cảm, hãy tìm kiếm sự hỗ trợ từ gia đình, bạn bè hoặc chuyên gia tâm lý. Chăm sóc bản thân, tìm hiểu các kỹ năng quản lý stress và thực hiện các hoạt động giảm stress cũng rất quan trọng."
+  },
+  {
+    "keywords": [
+      "trĩ",
+      "đau hậu môn",
+      "chảy máu"
+    ],
+    "response": "Trĩ là tình trạng bướu tĩnh mạch ở xung quanh hậu môn và hậu quả của áp lực lên các mạch máu này. Nếu bạn gặp triệu chứng trĩ như đau, chảy máu hoặc ngứa, nên tìm kiếm lời khuyên từ bác sĩ và tuân thủ chế độ ăn uống và lối sống lành mạnh để giảm nguy cơ tái phát."
+  },
+  {
+    "keywords": [
+      "chống nắng",
+      "kem chống nắng",
+      "bảo vệ da"
+    ],
+    "response": "Bảo vệ da khỏi tác động của tia tử ngoại là quan trọng để giảm nguy cơ ung thư da và lão hóa da. Hãy sử dụng kem chống nắng có chỉ số chống nắng SPF phù hợp và che chắn da khỏi ánh nắng mặt trời bằng cách đội mũ, đeo kính râm và mặc áo dài khi ra ngoài nắng."
+  }
+]
